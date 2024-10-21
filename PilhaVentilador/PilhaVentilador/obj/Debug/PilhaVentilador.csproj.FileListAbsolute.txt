@@ -1,0 +1,7 @@
+C:\Users\patom\source\repos\PilhaVentilador\PilhaVentilador\bin\Debug\PilhaVentilador.exe.config
+C:\Users\patom\source\repos\PilhaVentilador\PilhaVentilador\bin\Debug\PilhaVentilador.exe
+C:\Users\patom\source\repos\PilhaVentilador\PilhaVentilador\bin\Debug\PilhaVentilador.pdb
+C:\Users\patom\source\repos\PilhaVentilador\PilhaVentilador\obj\Debug\PilhaVentilador.csproj.AssemblyReference.cache
+C:\Users\patom\source\repos\PilhaVentilador\PilhaVentilador\obj\Debug\PilhaVentilador.csproj.CoreCompileInputs.cache
+C:\Users\patom\source\repos\PilhaVentilador\PilhaVentilador\obj\Debug\PilhaVentilador.exe
+C:\Users\patom\source\repos\PilhaVentilador\PilhaVentilador\obj\Debug\PilhaVentilador.pdb
